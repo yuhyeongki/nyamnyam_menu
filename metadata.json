@@ -1,0 +1,6 @@
+{
+  "name": "냠냠급식 - 전국 학교 급식 식단표 & 즐겨찾기",
+  "description": "나이스(NEIS) 공식 데이터를 연동하여 전국의 초·중·고등학교 급식 메뉴와 칼로리, 영양 정보, 알레르기 유발 성분을 간편하게 확인하고 즐겨찾기할 수 있는 심플한 급식 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
